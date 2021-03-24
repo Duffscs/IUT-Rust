@@ -13,3 +13,4 @@ fn plus_grande_somme_consecutive(vec: Vec<i32>) -> i32 {
             return temp;
         }).fold(0, max);
 }
+
